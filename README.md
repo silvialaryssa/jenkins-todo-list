@@ -18,7 +18,7 @@ Dillinger uses a number of open source projects to work properly:
 * [MySQL] - MySQL is an Oracle-backed open source relational database management system (RDBMS) based on Structured Query Language (SQL).
 
 
-### Installation
+  ### Installation
 
 Install the dependencies and start the server.
 
@@ -31,7 +31,7 @@ $ python manage.py runserver
 ```
 
 
-License
+License  
 ----
 
 GPL
